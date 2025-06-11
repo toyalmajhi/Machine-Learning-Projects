@@ -1,0 +1,38 @@
+# 🥑 Predicting the Prices of Avocados
+
+This project focuses on predicting the average price of avocados using historical retail data from 2018. The dataset includes weekly sales records, pricing, and regional information, offering a solid foundation for building regression models and exploring time series trends.
+
+---
+
+### 📊 About the Dataset
+
+The dataset represents **weekly 2018 retail scan data** for national avocado sales. Retail scan data is gathered directly from retailers’ cash registers and reflects actual retail sales of **Hass avocados**.
+
+> 💡 Starting in 2013, the data was expanded to cover multiple retail outlets including grocery, mass, club, drug, dollar, and military channels.
+
+📦 **Key Features in the Dataset**:
+- `Date`: Date of the observation.
+- `AveragePrice`: The average price of a single avocado.
+- `type`: Type of avocado — *conventional* or *organic*.
+- `year`: Year of the observation.
+- `Region`: City or region of sale.
+- `Total Volume`: Total number of avocados sold.
+- `4046`, `4225`, `4770`: Volume sold by PLU codes (representing different avocado sizes).
+
+---
+
+### 🎯 Project Goals
+
+- Analyze avocado sales trends and price variations by type, region, and time.
+- Build regression models to predict `AveragePrice`.
+- Evaluate model performance and compare different machine learning approaches.
+- Visualize insights to understand consumer trends and regional differences.
+
+---
+
+### 🛠️ Tools & Libraries Used
+
+- Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)
+- Jupyter Notebook for exploratory data analysis and modeling
+
+---
