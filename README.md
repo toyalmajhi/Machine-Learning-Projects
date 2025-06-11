@@ -16,7 +16,3 @@ This space serves as a collection of my learning journey in machine learning and
 ## 🚀 Purpose
 
 This repository is meant for **practice and learning purposes**. It reflects my progress, experiments, and understanding of core machine learning concepts and techniques. Feedback and suggestions are always welcome!
-
-
-
-
